@@ -1,1 +1,1 @@
-# Streamlit-and-Gradio-Project
+# Streamlit-project
