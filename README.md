@@ -29,7 +29,11 @@ Process the predictions obtained and display them on the interface.
 
 To setup and run this project you need to have Python3 installed on your system. Then you can clone this repo. At the repo's root, use the code from below which applies:
 
-+WINDOWS
++ WINDOWS
 
-  python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+  ``python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+  
++ Linus and MacOs
+
+ `` python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
   
